@@ -1,6 +1,6 @@
-# Dis-information Detection
+# Factuality Verification with Search-R1
 
-This project is a dis-information detection that processes datasets to extract, search, and perform factuality verification. 
+This project can extract, search, and perform factuality verification with R1 style.
 
 ## Usage
 
@@ -8,8 +8,6 @@ The following is an example script for thinking-searching-verification:
 
 ```bash
 export SERPER_KEY_PRIVATE="your-serper-key"
-export OPENAI_API_BASE="https://api.shubiaobiao.cn/v1"
-export OPENAI_API_KEY="your-openai-api-key"
 
 INPUT="./fact_checking_dataset/fact_checking_dataset_2017.jsonl"
 OUTPUT="./fact_checking_dataset/fact_checking_dataset_2017.json"
