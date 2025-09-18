@@ -50,7 +50,7 @@ class SearchAPI:
             )
 
         return formatted_str.strip()
-
+    
     def get_search_res(self, query):
         """
         为给定的查询字符串查询本地searxng实例。
@@ -142,3 +142,17 @@ class SearchAPI:
                     return {}
         else:
             return {}
+
+    def search_api_call(self, queries):
+        if not queries:
+            return []
+        
+        results = []
+        for query in queries:
+
+            import pdb;pdb.set_trace()
+            result = self.get_search_res(query)
+            import pdb;pdb.set_trace()
+            results.append(result)
+
+        return results

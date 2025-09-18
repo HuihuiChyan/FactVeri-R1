@@ -7,7 +7,7 @@ import threading
 
 import requests
 
-class SearchAPI():
+class SearchAPISerper():
     def __init__(self, search_url="https://google.serper.dev/search"):
         # invariant variables
         self.serper_key = os.getenv("SERPER_KEY_PRIVATE")

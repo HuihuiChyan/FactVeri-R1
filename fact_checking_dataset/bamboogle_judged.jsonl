@@ -1,0 +1,238 @@
+{"response": "James Madison was president of the United States in the year that Citibank was founded.", "label": "supported"}
+{"response": "Ulysses S. Grant was president of the United States in the year that Citibank was founded.", "label": "unsupported"}
+{"response": "The first spacecraft that ever approached Uranus was launched on the Titan IIIE rocket.", "label": "supported"}
+{"response": "The first spacecraft that ever approached Uranus was launched on the Atlas V rocket.", "label": "unsupported"}
+{"response": "The company founded as Sound of Music was added to the S&P 500 in 1999.", "label": "supported"}
+{"response": "The company that was founded as Sound of Music was added to the S&P 500 in 1982.", "label": "unsupported"}
+{"response": "David Dinkins was the first African American mayor of the most populous city in the United States.", "label": "supported"}
+{"response": "Richard G. Hatcher was the first African American mayor of the most populous city in the United States.", "label": "unsupported"}
+{"response": "The last king from Britain's House of Hanover died on 20 June 1837.", "label": "supported"}
+{"response": "The last king from Britain's House of Hanover died in 1901.", "label": "unsupported"}
+{"response": "The president who set the precedent of a two-term limit entered office on April 30, 1789.", "label": "supported"}
+{"response": "The president who set the precedent of a two-term limit entered office in 1933.", "label": "unsupported"}
+{"response": "The president who set the precedent of a two-term limit left office on March 4, 1797.", "label": "supported"}
+{"response": "The president who set the precedent of a two-term limit, Franklin, left office.", "label": "unsupported"}
+{"response": "131 people died in the second most powerful earthquake ever recorded.", "label": "supported"}
+{"response": "60,000 people died in the second most powerful earthquake ever recorded.", "label": "unsupported"}
+{"response": "The final book written by the author of On the Origin of Species is The Formation of Vegetable Mould Through the Action of Worms.", "label": "supported"}
+{"response": "The Descent of Man was the final book written by the author of On the Origin of Species.", "label": "unsupported"}
+{"response": "The company that built the first steam locomotive to carry passengers on a public rail line was founded in 1823.", "label": "supported"}
+{"response": "The company that built the first steam locomotive to carry passengers on a public rail line was founded in 1824.", "label": "unsupported"}
+{"response": "Erika Cheung is the Theranos whistleblower not related to a senior American government official.", "label": "supported"}
+{"response": "Tyler Shultz is the Theranos whistleblower who is not related to a senior American government official.", "label": "unsupported"}
+{"response": "The fastest air-breathing manned aircraft is mostly made out of titanium.", "label": "supported"}
+{"response": "The fastest air-breathing manned aircraft is mostly made out of carbon fiber.", "label": "unsupported"}
+{"response": "Lockheed Corporation built the fastest air-breathing manned aircraft.", "label": "supported"}
+{"response": "Bell X-2 built the fastest air-breathing manned aircraft.", "label": "unsupported"}
+{"response": "The author of The Population Bomb was born on May 29, 1932.", "label": "supported"}
+{"response": "The author of The Population Bomb was born in 1938.", "label": "unsupported"}
+{"response": "The author of Annabel Lee enlisted in the army in 1827.", "label": "supported"}
+{"response": "The author of Annabel Lee enlisted in the army in 1848.", "label": "unsupported"}
+{"response": "The inventor of the Polio vaccine was Jewish.", "label": "supported"}
+{"response": "The inventor of the Polio vaccine was Roman Catholic.", "label": "unsupported"}
+{"response": "The second wife of the founder of CNN is Jane Shirley Smith.", "label": "supported"}
+{"response": "The second wife of the founder of CNN is Lois Faulkner.", "label": "unsupported"}
+{"response": "The first prime minister of the Russian Empire came into office on November 6, 1905.", "label": "supported"}
+{"response": "Alexander I is the first prime minister of the Russian Empire to come into office.", "label": "unsupported"}
+{"response": "The primary male hormone is derived from cholesterol.", "label": "supported"}
+{"response": "The primary male hormone is derived from testosterone.", "label": "unsupported"}
+{"response": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of Quezon City.", "label": "supported"}
+{"response": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of Manila.", "label": "unsupported"}
+{"response": "The person who shared the Nobel Prize in Physics in 1954 with Max Born was born in Oranienburg, Germany.", "label": "supported"}
+{"response": "The person who shared the Nobel Prize in Physics in 1954 with Max Born was born in Wroc\u0142aw, Poland.", "label": "unsupported"}
+{"response": "The person who shared the Nobel Prize in Physics in 1954 with Max Born was born on January 8, 1891.", "label": "supported"}
+{"response": "The person who shared the Nobel Prize in Physics in 1954 with Max Born was born in 1901.", "label": "unsupported"}
+{"response": "The university where Plutonium was discovered was founded on March 23, 1868.", "label": "supported"}
+{"response": "The university where Plotonium was discovered was founded on December 13, 1925.", "label": "unsupported"}
+{"response": "The husband of Lady Godiva was Earl of Mercia.", "label": "supported"}
+{"response": "The husband of Lady Godiva was Earl of the Anglic kingdom of Leicestershire.", "label": "unsupported"}
+{"response": "The machine used to extract honey from honeycombs uses centrifugal force.", "label": "supported"}
+{"response": "The machine used to extract honey from honeycombs uses vibration.", "label": "unsupported"}
+{"response": "The third letter of the top-level domain of the military is l.", "label": "supported"}
+{"response": "The third letter of the top-level domain of the military is 'm'.", "label": "unsupported"}
+{"response": "The government department where the internet originated was founded in 1947.", "label": "supported"}
+{"response": "The government department where the internet originated was founded in 1922.", "label": "unsupported"}
+{"response": "The main actor of Indiana Jones is a licensed pilot.", "label": "supported"}
+{"response": "The main actor of Indiana Jones is a licensed archaeologist.", "label": "unsupported"}
+{"response": "The person after whom the Hubble Space Telescope is named was born on November 20, 1889.", "label": "supported"}
+{"response": "The person after whom the Hubble Space Telescope is named, Edward Everett Hubbard, was born on February 18, 1901.", "label": "unsupported"}
+{"response": "The person who gave the Checkers speech died on April 22, 1994.", "label": "supported"}
+{"response": "The person who gave the Checkers speech died in 1945.", "label": "unsupported"}
+{"response": "", "label": "supported"}
+{"response": "Christopher Hill is the philosopher that formulated the hard problem of consciousness.", "label": "unsupported"}
+{"response": "Austin is the capital of the second largest state in the US by area.", "label": "supported"}
+{"response": "Juneau is the capital of the second largest state in the US by area.", "label": "unsupported"}
+{"response": "320 km/h is the maximum airspeed of the third fastest bird.", "label": "supported"}
+{"response": "The maximum airspeed of the third fastest bird, the spur-winged goose, is 142 km/h.", "label": "unsupported"}
+{"response": "Alexander the Great founded the city where the founder of geometry lived.", "label": "supported"}
+{"response": "Pharaoh Menes founded the city where the founder of geometry lived.", "label": "unsupported"}
+{"response": "New Delhi is the capital of the country where yoga originated.", "label": "supported"}
+{"response": "Varanasi is the capital of the country where yoga originated.", "label": "unsupported"}
+{"response": "The fourth largest city in Germany was originally called Colonia Claudia Ara Agrippinensium.", "label": "supported"}
+{"response": "The fourth largest city in Germany was originally called Dortmund.", "label": "unsupported"}
+{"response": "Nirvana's second most selling studio album came out on September 13, 1993.", "label": "supported"}
+{"response": "Nirvana's second most selling studio album came out in 1991.", "label": "unsupported"}
+{"response": "The father of the founder of psychoanalysis was a wool merchant.", "label": "supported"}
+{"response": "The father of the founder of psychoanalysis was a neurologist.", "label": "unsupported"}
+{"response": "Four boiled egg yolks contain 10.8 grams of protein.", "label": "supported"}
+{"response": "Four boiled egg yolks contain 140g of protein.", "label": "unsupported"}
+{"response": "The most populous city in Punjab is 310 square kilometers in area.", "label": "supported"}
+{"response": "Lahore is the most populous city in Punjab by area.", "label": "unsupported"}
+{"response": "The death toll of the second largest volcanic eruption in the 20th century was 847.", "label": "supported"}
+{"response": "The death toll of the second largest volcanic eruption in the 20th century was 23,000.", "label": "unsupported"}
+{"response": "The death toll of the most intense Atlantic hurricane was 52.", "label": "supported"}
+{"response": "The death toll of the most intense Atlantic hurricane is 22,000.", "label": "unsupported"}
+{"response": "Thomas O. Paine was the head of NASA during Apollo 11.", "label": "supported"}
+{"response": "James Webb was the head of NASA during Apollo 11.", "label": "unsupported"}
+{"response": "The father of the father of George Washington is Lawrence Washington.", "label": "supported"}
+{"response": "The father of the father of George Washington is Augustine Warner.", "label": "unsupported"}
+{"response": "The mother of the father of George Washington is Mildred Warner.", "label": "supported"}
+{"response": "Mary Montague is the mother of the father of George Washington.", "label": "unsupported"}
+{"response": "Hussein Onyango Obama is the father of the father of Barack Obama.", "label": "supported"}
+{"response": "The father of the father of Barack Obama is Stanley Armour Dunham.", "label": "unsupported"}
+{"response": "Habiba Akumu Nyanjango is the mother of the father of Barack Obama.", "label": "supported"}
+{"response": "Madelyn Dunham is the mother of the father of Barack Obama.", "label": "unsupported"}
+{"response": "William Russell Grace was the mayor of New York City when Fiorello H. La Guardia was born.", "label": "supported"}
+{"response": "William Jay Gaynor was the mayor of New York City when Fiorello H. La Guardia was born.", "label": "unsupported"}
+{"response": "William Howard Taft was president of the U.S. when superconductivity was discovered.", "label": "supported"}
+{"response": "Ronald Reagan was president of the U.S. when superconductivity was discovered.", "label": "unsupported"}
+{"response": "The person Russ Hanneman is based on was born on July 31, 1958.", "label": "supported"}
+{"response": "The person Russ Hanneman is based on was born in 1950.", "label": "unsupported"}
+{"response": "The first location of the world's largest coffeehouse chain was opened on March 30, 1971.", "label": "supported"}
+{"response": "The first location of the world's largest coffeehouse chain was opened in 1953.", "label": "unsupported"}
+{"response": "James Cameron directed the highest grossing film.", "label": "supported"}
+{"response": "The highest grossing film was directed by the Russo Brothers.", "label": "unsupported"}
+{"response": "The longest bridge in the world was opened on 30 June 2011.", "label": "supported"}
+{"response": "The longest bridge in the world was opened in 2006.", "label": "unsupported"}
+{"response": "GlaxoSmithKline is the company responsible for the largest pharmaceutical settlement.", "label": "supported"}
+{"response": "Purdue Pharma was responsible for the largest pharmaceutical settlement.", "label": "unsupported"}
+{"response": "The tallest self-supporting tower was completed in 2012.", "label": "supported"}
+{"response": "The tallest self-supporting tower was completed in 2011.", "label": "unsupported"}
+{"response": "The tallest fixed steel structure was completed in 1988.", "label": "supported"}
+{"response": "The tallest fixed steel structure was completed in 2010.", "label": "unsupported"}
+{"response": "The tallest lattice tower was completed in 2012.", "label": "supported"}
+{"response": "The tallest lattice tower was completed in 1889.", "label": "unsupported"}
+{"response": "The current tallest wooden lattice tower was completed in 1935.", "label": "supported"}
+{"response": "The current tallest wooden lattice tower was completed in 2015.", "label": "unsupported"}
+{"response": "The second tallest statue in the world is in China.", "label": "supported"}
+{"response": "The second tallest statue in the world is in India.", "label": "unsupported"}
+{"response": "The tallest ferris wheel in the world was completed in 2021.", "label": "supported"}
+{"response": "The tallest ferris wheel in the world was completed in 2014.", "label": "unsupported"}
+{"response": "The tallest lighthouse was completed in the year 1902.", "label": "supported"}
+{"response": "The tallest lighthouse was completed in 1881.", "label": "unsupported"}
+{"response": "The world's largest desalination plant is in Saudi Arabia.", "label": "supported"}
+{"response": "The world's largest desalination plant is in the UAE.", "label": "unsupported"}
+{"response": "The most populous national capital city was established in 1045 BC.", "label": "supported"}
+{"response": "The most populous national capital city was established in the 1700s.", "label": "unsupported"}
+{"response": "The third largest river by discharge in the world is in India and Bangladesh.", "label": "supported"}
+{"response": "The Amazon River flows through the countries that host the third largest river by discharge in the world.", "label": "unsupported"}
+{"response": "4,884 m is the highest elevation of the second largest island in the world.", "label": "supported"}
+{"response": "1344 m is the highest elevation of the second largest island in the world.", "label": "unsupported"}
+{"response": "6,300 km is the length of the second deepest river in the world.", "label": "supported"}
+{"response": "The length of the second deepest river in the world is 2,330 miles.", "label": "unsupported"}
+{"response": "The third largest stadium in the world is in the United States.", "label": "supported"}
+{"response": "The third largest stadium in the world is in Brazil.", "label": "unsupported"}
+{"response": "The largest aircraft carrier in the world is named after Gerald R. Ford.", "label": "supported"}
+{"response": "The largest aircraft carrier in the world is named after USS Enterprise.", "label": "unsupported"}
+{"response": "The oldest cat ever recorded with the Cat of the Year award was in 1999.", "label": "supported"}
+{"response": "The oldest cat ever recorded with the Cat of the Year award was in 1975.", "label": "unsupported"}
+{"response": "The country that is the third largest exporter of coffee was founded in 1810.", "label": "supported"}
+{"response": "The third largest exporter of coffee, Brazil, was founded in the year.", "label": "unsupported"}
+{"response": "Pavel Belyayev was the commander for the space mission that had the first spacewalk.", "label": "supported"}
+{"response": "Ed White was the commander for the space mission that had the first spacewalk.", "label": "unsupported"}
+{"response": "George VI is the predecessor of the longest-reigning British monarch.", "label": "supported"}
+{"response": "The predecessor of the longest-reigning British monarch is Elizabeth II.", "label": "unsupported"}
+{"response": "In 2016, Jimmy Fallon was the host of the longest running talk show.", "label": "supported"}
+{"response": "In 2016, David Letterman was the host of the longest running talk show.", "label": "unsupported"}
+{"response": "In 2016, Drew Carey was the host of the longest running American game show.", "label": "supported"}
+{"response": "In 2016, the host of the longest running American game show was Steve Harvey.", "label": "unsupported"}
+{"response": "The novel on which the longest running show in Broadway history is based was written by Gaston Leroux.", "label": "supported"}
+{"response": "Arthur Miller wrote the novel on which the longest running show in Broadway history is based.", "label": "unsupported"}
+{"response": "The only cruise line that flies the American flag is incorporated in Bermuda.", "label": "supported"}
+{"response": "The only cruise line that flies the American flag is incorporated in the Bahamas.", "label": "unsupported"}
+{"response": "Work began on the second longest road tunnel in the world in 1992.", "label": "supported"}
+{"response": "Work on the second longest road tunnel in the world began in 2005.", "label": "unsupported"}
+{"response": "The official color of the third oldest surviving university is Cambridge Blue.", "label": "supported"}
+{"response": "The official color of the third oldest surviving university, University of Oxford, is dark blue.", "label": "unsupported"}
+{"response": "Tiberius succeeded the longest reigning Roman emperor.", "label": "supported"}
+{"response": "Diocletian succeeded the longest reigning Roman emperor.", "label": "unsupported"}
+{"response": "Tiberius preceded the Roman emperor that declared war on the sea.", "label": "supported"}
+{"response": "Claudius preceded the Roman emperor that declared war on the sea.", "label": "unsupported"}
+{"response": "MECC produced the longest running video game franchise.", "label": "supported"}
+{"response": "The longest running video game franchise is produced by Super Mario.", "label": "unsupported"}
+{"response": "Jacob Freud was the father of the father of psychoanalysis.", "label": "supported"}
+{"response": "Franz Brentano was the father of the father of psychoanalysis.", "label": "unsupported"}
+{"response": "Sir Nicholas Bacon was the father of the father of empiricism.", "label": "supported"}
+{"response": "Francis Bacon was the father of the father of empiricism.", "label": "unsupported"}
+{"response": "Vincenzo Galilei is the father of the father of observational astronomy.", "label": "supported"}
+{"response": "Hipparchus is the father of the father of observational astronomy.", "label": "unsupported"}
+{"response": "Yehuda Leib is the father of the father of modern Hebrew.", "label": "supported"}
+{"response": "Eliezer Ben-Yehuda is the father of the father of modern Hebrew.", "label": "unsupported"}
+{"response": "Maximilian Wundt is the father of the father of modern experimental psychology.", "label": "supported"}
+{"response": "Wilhelm Wundt is the father of the father of modern experimental psychology.", "label": "unsupported"}
+{"response": "Leo Wiener is the father of the originator of cybernetics.", "label": "supported"}
+{"response": "Arturo Rosenblueth is the father of the originator of cybernetics.", "label": "unsupported"}
+{"response": "Max Teller is the father of the father of the hydrogen bomb.", "label": "supported"}
+{"response": "J. Robert Oppenheimer is the father of the father of the hydrogen bomb.", "label": "unsupported"}
+{"response": "Julius Mathison Turing was the father of the father of computer science.", "label": "supported"}
+{"response": "The father of the father of computer science is Charles Babbage.", "label": "unsupported"}
+{"response": "Pickens Butler Watson was the father of the father of behaviorism.", "label": "supported"}
+{"response": "William James was the father of the father of behaviorism.", "label": "unsupported"}
+{"response": "The father of the founder of modern human anatomy is Anders van Wesel.", "label": "supported"}
+{"response": "Gabriele Falloppio was the father of the founder of modern human anatomy.", "label": "unsupported"}
+{"response": "The father of the last surviving Canadian father of Confederation was Charles Tupper Sr.", "label": "supported"}
+{"response": "The father of the last surviving Canadian father of Confederation was James Alexander Macdonald.", "label": "unsupported"}
+{"response": "The person who said \u201cNow, I am become Death, the destroyer of worlds.\u201d was born on April 22, 1904.", "label": "supported"}
+{"response": "The person who said \u201cNow, I am become Death, the destroyer of worlds.\u201d was born on September 14, 1899.", "label": "unsupported"}
+{"response": "Claude Sr. was the father of the father of information theory.", "label": "supported"}
+{"response": "The father of the father of information theory is Hartley.", "label": "unsupported"}
+{"response": "The person who delivered the \"Quit India\" speech was born on October 2, 1869.", "label": "supported"}
+{"response": "The person who delivered the \"Quit India\" speech was born on August 2, 1897.", "label": "unsupported"}
+{"response": "The president who warned about the military industrial complex died on March 28, 1969.", "label": "supported"}
+{"response": "The president who warned about the military industrial complex died in 1961.", "label": "unsupported"}
+{"response": "The president who said \"Tear Down This Wall\" died on June 5, 2004.", "label": "supported"}
+{"response": "The president who said \"Tear Down This Wall,\" Ronald Reagan, has died.", "label": "unsupported"}
+{"response": "312 m is the lowest elevation of the longest railway tunnel.", "label": "supported"}
+{"response": "429 m (1,407 ft) is the lowest elevation of the longest railway tunnel in Switzerland.", "label": "unsupported"}
+{"response": "The person who said \"Cogito, ergo sum.\" died on February 11, 1650.", "label": "supported"}
+{"response": "The person who said \"Cogito, ergo sum\" died in 1642.", "label": "unsupported"}
+{"response": "The person who delivered the Gettysburg Address died on April 15, 1865.", "label": "supported"}
+{"response": "The person who delivered the Gettysburg Address died on November 15, 1863.", "label": "unsupported"}
+{"response": "Rick Scott was the governor of Florida during Hurricane Irma.", "label": "supported"}
+{"response": "Ricky Scott was the governor of Florida during Hurricane Irma.", "label": "unsupported"}
+{"response": "The winner of the 2007 Ballon d'Or played for Real Madrid in 2012.", "label": "supported"}
+{"response": "The winner of the 2007 Ballon d'Or played for AC Milan in 2012.", "label": "unsupported"}
+{"response": "Madrid is the capital city of the country that was the champion of the 2010 World Cup.", "label": "supported"}
+{"response": "The capital city of the country that was the champion of the 2010 World Cup is Brazil.", "label": "unsupported"}
+{"response": "The anime studio that made Sword Art Online was founded on May 9, 2005.", "label": "supported"}
+{"response": "The anime studio that made Sword Art Online was founded in 2008.", "label": "unsupported"}
+{"response": "King Wu of Zhou was the first king of the longest Chinese dynasty.", "label": "supported"}
+{"response": "Yuan Hao was the first king of the longest Chinese dynasty.", "label": "unsupported"}
+{"response": "Toghon Tem\u00fcr was the last emperor of the dynasty that succeeded the Song dynasty.", "label": "supported"}
+{"response": "Yongzheng was the last emperor of the dynasty that succeeded the Song dynasty.", "label": "unsupported"}
+{"response": "Powering Silicon Valley is the motto of the oldest California State university.", "label": "supported"}
+{"response": "The motto of the oldest California State university is Opportunities.", "label": "unsupported"}
+{"response": "Richmond is the capital of the state that the College of William & Mary is in.", "label": "supported"}
+{"response": "Williamsburg is the capital of the state that the College of William & Mary is in.", "label": "unsupported"}
+{"response": "The capital of the state that Washington University in St. Louis is in is Jefferson City.", "label": "supported"}
+{"response": "The capital of the state that Washington University in St. Louis is in is Missouri.", "label": "unsupported"}
+{"response": "Olympia is the capital of the state where the Space Needle is located.", "label": "supported"}
+{"response": "Seattle is the capital of the state where the Space Needle is located.", "label": "unsupported"}
+{"response": "Brazil won in women's volleyball in the most recent Summer Olympics held in London.", "label": "supported"}
+{"response": "The United States won in women's volleyball in the most recent Summer Olympics held in London.", "label": "unsupported"}
+{"response": "The nickname of the easternmost U.S. state is Pine Tree State.", "label": "supported"}
+{"response": "The nickname of the easternmost U.S. state is The Last Frontier.", "label": "unsupported"}
+{"response": "The nickname for the state that is home to the \u201cAvocado Capital of the World\" is the Golden State.", "label": "supported"}
+{"response": "Hawaii is the nickname for the state that is the home to the \u201cAvocado Capital of the World.\u201d", "label": "unsupported"}
+{"response": "The war that Neil Armstrong served in ended on July 27, 1953.", "label": "supported"}
+{"response": "The war that Neil Armstrong served in ended in 1975.", "label": "unsupported"}
+{"response": "The composer of Carol of the Bells is born on December 13, 1877.", "label": "supported"}
+{"response": "The composer of Carol of the Bells was born on January 6, 1876.", "label": "unsupported"}
+{"response": "The father of the scientist at MIT who won the Queen Elizabeth Prize for Engineering in 2013 is Conway Berners-Lee.", "label": "supported"}
+{"response": "Andrew is the father of the scientist at MIT who won the Queen Elizabeth Prize for Engineering in 2013.", "label": "unsupported"}
+{"response": "The mother of the emperor of Japan during World War I was Yanagiwara Naruko.", "label": "supported"}
+{"response": "The mother of the emperor of Japan during World War I was Empress Sh\u014dken.", "label": "unsupported"}
+{"response": "Helium has an atomic number that is double that of hydrogen.", "label": "supported"}
+{"response": "Carbon has an atomic number that is double that of hydrogen.", "label": "unsupported"}
+{"response": "The motto of the Olympics that had Fuwa as the mascots was \"One World, One Dream.\"", "label": "supported"}
+{"response": "The motto of the Olympics that had Fuwa as the mascots is Higher, Faster, Stronger, Together.", "label": "unsupported"}
